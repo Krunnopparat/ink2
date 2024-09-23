@@ -1,0 +1,8 @@
+fomulaCode
+FC_id  FC
+1   CCL10000  GOLD WASH SL
+
+compo
+FC_id   CC
+1       UFK1-0105-408N
+1       UFK0-0061-408N
